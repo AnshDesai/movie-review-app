@@ -11,5 +11,4 @@ Steps are :
 2) Enter any reviews of movies as a whole sentence and click Analyze.
 
 The output is shown as below:
-
-![alt text](https://github.com/AnshDesai/Django-Application/Output.PNG?raw=true)
+![picture](Output.PNG)
