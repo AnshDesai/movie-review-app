@@ -1,4 +1,4 @@
-# Django-Application
+# Sentiment Analysis DjangoWeb Application
 
 This is sentiment analyis application of movie reviews. The dataset used is movie-reviews.
 It classifies reviews as positive or negative reviews.
